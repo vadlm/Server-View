@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, ServerViewActivity!</string>
+    <string name="app_name">ServerView</string>
+    <string name="widget_label">Simple widget</string>
+
+</resources>
